@@ -1,0 +1,48 @@
+Australia (192)
+National: data.australia.gov.au
+New South Wales: data.nsw.org.au
+
+Canada (1166)
+British Columbia: data.gov.bc.ca
+Edmonton: data.edmonton.ca
+Mississauga: mississauga.ca
+Nanaimo: nanaimo.ca
+Ottawa: ottawa.ca
+Toronto: www.toronto.ca
+Vancouver: data.vancouver.ca
+
+New Zealand (270)
+National: data.govt.nz
+
+Spain (2010)
+Basque Country (in Spanish): opendata.euskadi.net
+
+United Kingdom (5975)
+National: data.gov.uk
+Lichfield: lichfielddc.gov.uk
+London: data.london.gov.uk
+Warwickshire: opendata.warwickshire.gov.uk
+Greater Manchester: datagm.org.uk
+CKAN DataHub: http://thedatahub.org/
+
+United States (6425)
+National: data.gov
+Ann Arbor: a2gov.org
+Arvada: arvada.org
+California: www.ca.gov/data
+Chicago: data.cityofchicago.org
+District of Columbia: data.octo.dc.gov
+Massachusetts: state.ma.us
+Michigan: michigan.gov
+New York City: www.nyc.gov/data
+New York State: nysenate.gov
+Rhode Island: ri.gov/data
+San Franciso: www.datasf.org
+Seattle: data.seattle.gov
+Texas: texas.gov
+Utah: utah.gov/data
+
+International (96)
+OECD iLibrary: oecdilibrary.org
+World Bank Data: http://data.worldbank.org/
+

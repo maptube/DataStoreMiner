@@ -1,0 +1,32 @@
+CSV FIELD,DATASTORE FIELD,DESCRIPTION
+DRUPAL_NODE,,Internal Drupal Node
+TITLE,(Dataset Title),Title of the Dataset
+DATASTORE_URL,,URL of the Dataset package on the London Datastore site [metadata]
+DDATE,(Date Created),Creation Date of the Dataset (in the London Datastore)
+CATEGORIES,(Categories),One or more dataset categories for the package
+LONGDESC,(Long Description),Description of the Dataset
+GEOGRAPHY,Geography,Geographical level e.g. ward
+EXTENT,Extent,GEographical extents e.g. Greater London
+AUTHOR_NAME,Author Name,Name of the Dataset Author
+MAINTAINER,Maintainer,Name of the Dataset Maintainer (or sub-name of Dataset Author)
+MAINTAINER_EMAIL,Maintainer email,Email address of the Dataset Maintainer
+UPDATE_FREQUENCY,Update Frequency,How often the Dataset is updated
+DATE_RANGE,Date range,Date range the Dataset covers
+RELEASE_DATE,Release Date,Release Date of the Dataset (by the Dataset Author)
+METADATA_UPDATE,Metadata update,Last Updated Date of the Dataset or metadata (in the London Datastore)
+LICENSE_SUMMARY,License Summary,Summary of the license applicable to the Dataset
+URL,URL,URL of link to further information
+DOWNLOAD_URL,Download URL,Download URL to the Dataset
+EXCEL_URL,Excel URL,Download URL to the Dataset in MS Excel format
+CSV_URL,CSV URL,Download URL to the Dataset in CSV format
+XML_URL,XML URL,Download URL to the Dataset in XML format
+GOOGLEDOCS_URL,Googledocs URL,Download URL to the Dataset on Googledocs
+JSON_URL,,[Possible future format]
+SHP_URL,SHP,Download URL to the Dataset in ESRI Shape File
+KML_URL,,[Possible future format]
+TAB_URL,TAB,Download URL to the Dataset in MapInfo Tab File
+APPS_USING_THIS_DATA,Apps using this data,Names of developed Applications or Inspirational Uses making use of this Dataset
+TAGS,TAGS,Keywords
+apps_using_this_data_urls,,URLs of developed Applications or Inspirational Uses making use of this Dataset
+license_details,License Details,Details of the License applicable to the Dataset
+spatial_ref,Spatial Reference,Spatial reference of data if geographical e.g. British National Grid
